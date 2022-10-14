@@ -1,6 +1,6 @@
 /* Mac Like Titlebar */
 :root {
-  --close-button-color: ##f50031;
+  --close-button-color: #f50031;
   --maximize-button-color: #f7bc1bde;
   --minimize-button-color: #12db33de;
   --button-position: row;
